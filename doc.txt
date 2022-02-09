@@ -1,4 +1,4 @@
-code conclick2
+delete once time merge 2nd
 test confict
 merge 1st
 add function 3
