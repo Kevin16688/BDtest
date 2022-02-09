@@ -1,4 +1,5 @@
-﻿add function 3
+﻿code conclick2
+add function 3
 add function 2
 add function 1
 1、mstsc：
